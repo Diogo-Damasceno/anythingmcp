@@ -1,11 +1,11 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.HelpCode-ai/anythingmcp",
-  "description": "188 connectors + any REST/SOAP/GraphQL/SQL as MCP tools for Claude & ChatGPT. Self-hosted, AGPL.",
+  "description": "189 connectors + any REST/SOAP/GraphQL/SQL as MCP tools for Claude & ChatGPT. Self-hosted, AGPL.",
   "repository": {
     "url": "https://github.com/HelpCode-ai/anythingmcp",
     "source": "github"
   },
-  "version": "0.8.1",
+  "version": "0.9.0",
   "websiteUrl": "https://anythingmcp.com"
 }
