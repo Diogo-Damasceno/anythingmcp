@@ -16,4 +16,4 @@ If you cannot name your organization publicly, you may list it as a description 
 
 1. Fork the repository and edit this file.
 2. Add a row to the table above with your project and what it connects.
-3. Open a pull request and apply the `good first issue` or `roadmap` label.
+3. Open a pull request.
